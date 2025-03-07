@@ -5,3 +5,11 @@
     justify-content: center;
     padding: 30px;
 }
+
+.containerEndereco h1 {
+    color: white;
+}
+
+.containerEndereco p {
+    color: white;
+}
