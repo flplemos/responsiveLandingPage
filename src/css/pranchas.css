@@ -8,6 +8,7 @@
 
 .h1Pranchas {
     margin-bottom: 20px; 
+    margin-top: 20px;
     
 }
 
@@ -39,4 +40,18 @@ width: 300px;
     margin-top: 10px;
     border-radius: 5px;
     
+}
+
+@media (max-width: 1046px) {
+    .pranchasList {
+        flex-direction: column;
+        
+    }
+
+    .pranchasContainer {
+        max-width: 400px;
+        margin: auto;
+        border-radius: 3px;
+        box-shadow: 5px 0 10px rgba(0, 0, 0, 0.1);
+    }
 }

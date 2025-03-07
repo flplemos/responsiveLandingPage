@@ -3,10 +3,17 @@
     flex-direction: column; 
     align-items: center;   
     justify-content: center; 
-    padding: 50px;
+    padding: 30px;
     text-align: center;     
     background-color: #DB9F46;
     margin: 50px;
+    border-radius: 3px;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+.vantagensContainer p {
+    text-align: justify;
 }
 
 .vantagensContainer img {

@@ -19,6 +19,15 @@ form {
     width: 300px;          
 }
 
+form button {
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
 label {
     margin-bottom: 0px; 
     font-weight: bold;  
@@ -30,4 +39,9 @@ input {
     margin-bottom: 15px;   
     border: 1px solid #ccc;
     border-radius: 5px;
+}
+
+
+.mensagem {
+    height: 150px;
 }

@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
     margin: 0;
@@ -7,4 +8,9 @@
 
 body {
     background-color: #587386;
+    font-family: "Original Surfer", sans-serif;
+}
+
+p, a, label {
+    font-family: "Roboto Condensed", sans-serif;;
 }
