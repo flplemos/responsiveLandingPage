@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    flex-direction: column;  /* Coloca o título acima do nav */
+    align-items: center;
+    background-color: #3A97DA;
+}
+
+.titleHeader {
+    display: flex;
+    flex-direction: column;  /* Mantém o título em coluna */
+    align-items: center;
+    margin-bottom: 10px; /* Adiciona um espaço entre o título e o nav */
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;  /* Mantém os links na linha (row) */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}

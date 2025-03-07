@@ -1,0 +1,42 @@
+.pranchasContainer {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    background-color: antiquewhite;
+    
+}
+
+.h1Pranchas {
+    margin-bottom: 20px; 
+    
+}
+
+.pranchasList {
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 45px;
+}
+
+.pranchasList div {
+width: 300px;
+}
+
+.pranchasList div h1 {
+    padding: 5px;
+}
+
+.pranchasList div p {
+    padding: 10px;
+}
+
+
+.pranchas {
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+}

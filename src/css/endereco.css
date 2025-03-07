@@ -1,0 +1,7 @@
+.containerEndereco {
+    display: flex;
+    flex-direction: column;
+    background-color: #5C554B;
+    justify-content: center;
+    padding: 30px;
+}
